@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Resume</title>
+</head>
+<body>
+    <h2>Angelique Lee</h2>
+    <p>123 Nunya business
+        <br>
+       Jersey City, NJ
+       <br>
+       07306
+    </p>
+    <h2>Profile</h2>
+    <p>A current junior at NJIT. I value punctuality and adaptability. Charity work is important to me, and I
+        have years of experience managing teams in dynamic environments in efforts to raise money for a
+        variety of causes. I am driven to succeed in a database management, and will use my skills in
+        organization and data manipulation languages to be a valuable asset to any team </p>
+        <br>
+    <h2>Skills</h2>
+        <ul>
+            <li>Python- <i>1 year</i></li>
+            <li>Java- <i>2 years</i></li>
+            <li>HTML- <i>1 year </i></li>
+            <li>CSS- <i>1 year</i></li>
+            <li>MySQL- <i>1 year</i> </li>
+        </ul>
+    <h2>Education</h2>
+    <p>2022-present</p>
+    <h3>New jersey institute of Technology</h3>
+    <ul>
+        <li>Information Systems- <i>(bachlors)</i></li>
+    </ul>
+    <br>
+    <p>2020-2022</p>
+    <h3>Hudson County Community College</h3>
+    <ul>
+        <li>Computer Science- <i>(associates)</i></li>
+    </ul>
+</body>
+</html>
